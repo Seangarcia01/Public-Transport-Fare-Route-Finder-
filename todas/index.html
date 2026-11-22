@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>ToDas</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <main>
+      <header class="logo">
+        <img
+          class="mark"
+          alt="ToDas logo: a green jeepney with a red map pin"
+          width="760"
+          height="578"
+          src="assets/todas-logo.png"
+        />
+        <div class="lt">
+          <h1 class="brand">
+            <span class="to">To</span><span class="das">Das</span>
+          </h1>
+          <div class="road"></div>
+          <p class="tag">
+            Public Transportation Route and Fare Finder for Dasmariñas City
+          </p>
+        </div>
+      </header>
+
+      <div class="grid">
+        <div class="card mapwrap">
+          <canvas
+            id="map"
+            role="img"
+            aria-label="Road map of Dasmariñas"
+          ></canvas>
+          <div class="zoom">
+            <button id="zi" aria-label="Zoom in">+</button
+            ><button id="zo" aria-label="Zoom out">−</button
+            ><button id="zf" aria-label="Fit map">⌂</button>
+          </div>
+        </div>
+        <div class="card side">
+          <label for="inA" style="margin-top: 0">Location (A)</label>
+          <div class="combo">
+            <input
+              id="inA"
+              role="combobox"
+              aria-autocomplete="list"
+              aria-expanded="false"
+              aria-controls="lbA"
+              placeholder="Search a barangay…"
+              autocomplete="off"
+              disabled
+            />
+            <ul id="lbA" role="listbox" hidden></ul>
+          </div>
+          <label for="inB">Destination (B)</label>
+          <div class="combo">
+            <input
+              id="inB"
+              role="combobox"
+              aria-autocomplete="list"
+              aria-expanded="false"
+              aria-controls="lbB"
+              placeholder="Search a barangay…"
+              autocomplete="off"
+              disabled
+            />
+            <ul id="lbB" role="listbox" hidden></ul>
+          </div>
+          <label for="pax">Passenger</label>
+          <select id="pax">
+            <option value="regular">Regular</option>
+            <option value="student">Student</option>
+            <option value="senior">Senior Citizen</option>
+            <option value="pwd">PWD</option>
+          </select>
+          <div class="row">
+            <button class="go" id="go" disabled>Find route</button
+            ><button id="reset" disabled>Reset</button>
+          </div>
+          <div class="key">
+            <span><i style="background: var(--route)"></i>Jeepney rides</span
+            ><span><i style="background: var(--sa)"></i>Pickup points</span
+            ><span
+              ><i style="background: var(--brgy); border-radius: 2px"></i
+              >Barangays</span
+            ><span><i style="background: var(--meet)"></i>Key landmarks</span
+            ><span
+              ><i
+                style="
+                  width: 18px;
+                  height: 0;
+                  border-radius: 0;
+                  border-top: 3px dotted var(--ink);
+                  vertical-align: 3px;
+                "
+              ></i
+              >Walk</span
+            >
+          </div>
+          <p id="msg" role="status">Loading the Dasmariñas map…</p>
+          <button id="retry" hidden>Try again</button>
+          <div id="out"></div>
+          <div id="pins" hidden></div>
+        </div>
+      </div>
+      <section
+        id="fare"
+        hidden
+        aria-label="Jeepney fare and route progress"
+      ></section>
+    </main>
+    <script src="js/config.js"></script>
+    <script src="js/road-network.js"></script>
+    <script src="js/place-search.js"></script>
+    <script src="js/legacy-road-search.js"></script>
+    <script src="js/route-directory.js"></script>
+    <script src="js/route-builder.js"></script>
+    <script src="js/trip-planner.js"></script>
+    <script src="js/app-state.js"></script>
+    <script src="js/map-view.js"></script>
+    <script src="js/location-picker.js"></script>
+    <script src="js/trip-controls.js"></script>
+    <script src="js/fare-panel.js"></script>
+    <script src="js/pin-mode.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/pan-zoom.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

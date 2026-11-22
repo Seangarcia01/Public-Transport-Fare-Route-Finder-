@@ -1,0 +1,895 @@
+{
+  "elements": [
+    {
+      "type": "node",
+      "tags": {
+        "name": "Salitran 4",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.35183,
+      "lon": 120.9518777
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Salitran 3",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3513896,
+      "lon": 120.9442673
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Salitran 1",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.354446,
+      "lon": 120.9378815
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Salawag",
+        "place": "suburb",
+        "admin_level": "10"
+      },
+      "lat": 14.3538868,
+      "lon": 120.9812456
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Langkaan 2",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.306485,
+      "lon": 120.933576
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Paliparan 3",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3203558,
+      "lon": 120.9848515
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Sampaloc 2",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.2832912,
+      "lon": 120.9605203
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Luzviminda 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3103714,
+      "lon": 120.9692272
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Sampaloc 4",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3059572,
+      "lon": 120.9721675
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Dionisio",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.338938,
+      "lon": 120.953312
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Sampaloc 5",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.2809466,
+      "lon": 120.965733
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Sampaloc 1",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.2970155,
+      "lon": 120.9561755
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Agustin 2",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3176391,
+      "lon": 120.9525252
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Agustin 1",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3084852,
+      "lon": 120.9515637
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Agustin 3",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3208694,
+      "lon": 120.9397176
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Zone 3",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3261116,
+      "lon": 120.9353014
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Zone 4",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3261731,
+      "lon": 120.9383056
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Zone 2",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3284514,
+      "lon": 120.9329754
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Zone 1",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3298601,
+      "lon": 120.935557
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Zone 1-A",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.335037,
+      "lon": 120.9379742
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Jose",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3351633,
+      "lon": 120.9302251
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Sabang",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3489394,
+      "lon": 120.9245219
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Burol",
+        "place": "suburb",
+        "admin_level": "10"
+      },
+      "lat": 14.3273217,
+      "lon": 120.9506564
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Salitran 2",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3450147,
+      "lon": 120.9374128
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Saint Peter 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3405279,
+      "lon": 120.9472832
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Saint Peter 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3390779,
+      "lon": 120.947759
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Miguel 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3380448,
+      "lon": 120.9495076
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Miguel 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3369537,
+      "lon": 120.9478355
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Manuel 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3360635,
+      "lon": 120.9503887
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Manuel 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3346697,
+      "lon": 120.9528777
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Isidro Labrador 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3418522,
+      "lon": 120.9493411
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Isidro Labrador 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3436886,
+      "lon": 120.9506737
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Juan",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3397695,
+      "lon": 120.9510599
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santa Lucia",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3364284,
+      "lon": 120.9533926
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Datu Esmael",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3340017,
+      "lon": 120.9584762
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Esteban",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3369821,
+      "lon": 120.9573666
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "H-2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3311272,
+      "lon": 120.9567288
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santa Maria",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3220105,
+      "lon": 120.9563501
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Antonio de Padua 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3188088,
+      "lon": 120.9571588
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Antonio de Padua 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3171659,
+      "lon": 120.9571936
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santa Cruz 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3155207,
+      "lon": 120.956853
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Emmanuel Bergado 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3163487,
+      "lon": 120.9595095
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Emmanuel Bergado 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3153962,
+      "lon": 120.9610973
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Luis 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3137793,
+      "lon": 120.9626336
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Luis 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3109295,
+      "lon": 120.9633618
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Lorenzo Ruiz 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3110103,
+      "lon": 120.9597364
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Lorenzo Ruiz 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3110642,
+      "lon": 120.9570439
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santa Cruz 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3134791,
+      "lon": 120.9578845
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Langkaan 1",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.2826979,
+      "lon": 120.945672
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Sampaloc 3",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.2905832,
+      "lon": 120.9774436
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Paliparan 1",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.2882036,
+      "lon": 120.986838
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Paliparan 2",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3033636,
+      "lon": 120.9925479
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santa Fe",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3203228,
+      "lon": 120.9645871
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Francisco 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3204896,
+      "lon": 120.9662894
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Francisco 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3191311,
+      "lon": 120.9681341
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Mateo",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3169875,
+      "lon": 120.9688246
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Nicolas 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3154339,
+      "lon": 120.9694976
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Nicolas 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3170918,
+      "lon": 120.9716788
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Simon",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3190327,
+      "lon": 120.9714701
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Andres 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3204949,
+      "lon": 120.9696277
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Andres 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3220476,
+      "lon": 120.9679625
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santa Cristina 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.324362,
+      "lon": 120.9667802
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santa Cristina 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3229859,
+      "lon": 120.9699719
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Burol 3",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3261396,
+      "lon": 120.9670336
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Victoria Reyes",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3168932,
+      "lon": 120.9764735
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Burol 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3239255,
+      "lon": 120.963043
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Burol 1",
+        "place": "quarter",
+        "admin_level": "10"
+      },
+      "lat": 14.3269129,
+      "lon": 120.9603749
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santo Cristo",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3400998,
+      "lon": 120.9558176
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santo Niño 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3431947,
+      "lon": 120.9550754
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Santo Niño 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3428758,
+      "lon": 120.9527452
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "San Roque",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3235878,
+      "lon": 120.968222
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Fatima 3",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3125293,
+      "lon": 120.9653782
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Fatima 2",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3154938,
+      "lon": 120.964278
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Fatima 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.3184942,
+      "lon": 120.9613212
+    },
+    {
+      "type": "node",
+      "tags": {
+        "name": "Luzviminda 1",
+        "place": "neighbourhood",
+        "admin_level": "10"
+      },
+      "lat": 14.314884,
+      "lon": 120.9667633
+    },
+    {
+      "type": "relation",
+      "id": 8202453,
+      "tags": {
+        "name": "De La Salle Medical and Health Sciences Institute",
+        "old_name": "De La Salle Health Sciences Institute;DLSHSI;DLS HSI",
+        "short_name": "DLSMHSI;DLS MHSI"
+      },
+      "lat": 14.3304123,
+      "lon": 120.9449154
+    },
+    {
+      "type": "relation",
+      "id": 8505494,
+      "tags": {
+        "name": "De La Salle University - Dasmariñas",
+        "short_name": "DLSU-D;DLSUD;DLSU–D;DLS U-D;DLS UD; DLS U–D"
+      },
+      "lat": 14.3241902,
+      "lon": 120.9599037
+    },
+    {
+      "type": "relation",
+      "id": 8646163,
+      "tags": {
+        "alt_name": "SM City Dasmarinas",
+        "name": "SM City Dasmariñas",
+        "official_name": "SM City Dasmariñas",
+        "short_name": "SMD"
+      },
+      "lat": 14.3018166,
+      "lon": 120.9570097
+    },
+    {
+      "type": "relation",
+      "id": 13433287,
+      "tags": {
+        "name": "Avida Residences Santa Catalina"
+      },
+      "lat": 14.3611734,
+      "lon": 120.9768596
+    },
+    {
+      "type": "node",
+      "id": 9200001,
+      "lat": 14.301817,
+      "lon": 120.95701,
+      "tags": {
+        "name": "SM Pala-Pala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200002,
+      "lat": 14.299808,
+      "lon": 120.954543,
+      "tags": {
+        "name": "Robinsons Pala-Pala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200003,
+      "lat": 14.32475,
+      "lon": 120.941064,
+      "tags": {
+        "name": "WalterMart"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200004,
+      "lat": 14.328004,
+      "lon": 120.959656,
+      "tags": {
+        "name": "Kadiwa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200005,
+      "lat": 14.291652,
+      "lon": 120.931603,
+      "tags": {
+        "name": "FCIE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200006,
+      "lat": 14.348472,
+      "lon": 120.979869,
+      "tags": {
+        "name": "Golden City"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200007,
+      "lat": 14.343831,
+      "lon": 120.953789,
+      "tags": {
+        "name": "DBB-1 / Area 1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200008,
+      "lat": 14.318824,
+      "lon": 120.971002,
+      "tags": {
+        "name": "DBB-C / Area C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200009,
+      "lat": 14.309526,
+      "lon": 120.968877,
+      "tags": {
+        "name": "DBB-D / Area D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200010,
+      "lat": 14.340412,
+      "lon": 120.948964,
+      "tags": {
+        "name": "DBB-G / Area G"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9200011,
+      "lat": 14.320356,
+      "lon": 120.984852,
+      "tags": {
+        "name": "Paliparan III"
+      }
+    }
+  ]
+}
